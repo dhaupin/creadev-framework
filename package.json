@@ -32,6 +32,7 @@
     "vitest": "^1.6.1"
   },
   "dependencies": {
+    "@creadev.org/security": "^0.3.1",
     "@creadev.org/qos": "^0.3.1"
   },
   "files": [
