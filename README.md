@@ -40,3 +40,4 @@ import { Runtime, Storage, Config, Cache, Lock, Network, Sandbox } from '@creade
 ## License
 
 MIT
+trigger
